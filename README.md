@@ -1,4 +1,4 @@
-# seminar: Dec 15
+# seminar: Dec 14
 Demo project used for seminar
 =============================
 ($ git clone https://github.com/scmlearningcentre/seminar.git seminar)
