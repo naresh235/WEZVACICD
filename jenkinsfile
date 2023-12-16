@@ -3,7 +3,7 @@ pipeline {
 
  stages
  {
-  agent { label 'demo1' }
+  agent { label 'demo2' }
   stage('Checkout')
   {
    steps { 
